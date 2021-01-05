@@ -1,4 +1,4 @@
-# The Minimum of Michalewicz Function - Evulutionary algorithm optimization
+# The Minimum of Michalewicz Function - Evolutionary algorithm optimization
 
 The program finds the minimum of michalewicz function.  </br>
 https://www.sfu.ca/~ssurjano/michal.html </br>
